@@ -64,8 +64,9 @@
 - freeCodeCamp: **JavaScript Algorithms & Data Structures**, **Front End Development Libraries**
 
 ---
-
+ <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavadharanithangaraj&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
+</p>
 
 ---
 
-<p align="center"><b>💬 Hiring for React or React + Python roles? Let's talk: <a href="mailto:bhavadharani757@gmail.com">bhavadharani757@gmail.com</a></b></p>
+<p align="center"><b>💬 Hiring for React or React + Python roles? Let's talk: <a href="mailto:bhavadharani0757@gmail.com">bhavadharani0757@gmail.com</a></b></p>
