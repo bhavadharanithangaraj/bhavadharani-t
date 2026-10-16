@@ -64,6 +64,8 @@
 - freeCodeCamp: **JavaScript Algorithms & Data Structures**, **Front End Development Libraries**
 
 ---
+### 📊 GitHub stats
+
  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavadharanithangaraj&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
 </p>
 
