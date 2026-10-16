@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavadharani-thangraj"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:bhavadharani757@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:bhavadharani0757@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://bhavadharanithangaraj.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -65,12 +65,6 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bhavadharanithangaraj&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavadharanithangaraj&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
-</p>
 
 ---
 
